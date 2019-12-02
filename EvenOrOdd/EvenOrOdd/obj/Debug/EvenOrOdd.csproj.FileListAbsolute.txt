@@ -1,0 +1,7 @@
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\EvenOrOdd\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\EvenOrOdd\EvenOrOdd\bin\Debug\EvenOrOdd.exe
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\EvenOrOdd\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\EvenOrOdd\EvenOrOdd\obj\Debug\EvenOrOdd.csprojAssemblyReference.cache
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\EvenOrOdd\EvenOrOdd\obj\Debug\EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\EvenOrOdd\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\EvenOrOdd\EvenOrOdd\obj\Debug\EvenOrOdd.pdb

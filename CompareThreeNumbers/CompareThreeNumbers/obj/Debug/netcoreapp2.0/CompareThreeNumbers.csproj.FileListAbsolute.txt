@@ -1,0 +1,11 @@
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\netcoreapp2.0\CompareThreeNumbers.csprojAssemblyReference.cache
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\netcoreapp2.0\CompareThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\netcoreapp2.0\CompareThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\netcoreapp2.0\CompareThreeNumbers.AssemblyInfo.cs
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\CompareThreeNumbers\CompareThreeNumbers\bin\Debug\netcoreapp2.0\CompareThreeNumbers.deps.json
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\CompareThreeNumbers\CompareThreeNumbers\bin\Debug\netcoreapp2.0\CompareThreeNumbers.runtimeconfig.json
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\CompareThreeNumbers\CompareThreeNumbers\bin\Debug\netcoreapp2.0\CompareThreeNumbers.runtimeconfig.dev.json
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\CompareThreeNumbers\CompareThreeNumbers\bin\Debug\netcoreapp2.0\CompareThreeNumbers.dll
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\CompareThreeNumbers\CompareThreeNumbers\bin\Debug\netcoreapp2.0\CompareThreeNumbers.pdb
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\netcoreapp2.0\CompareThreeNumbers.dll
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\CompareThreeNumbers\CompareThreeNumbers\obj\Debug\netcoreapp2.0\CompareThreeNumbers.pdb

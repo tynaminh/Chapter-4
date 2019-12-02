@@ -1,0 +1,11 @@
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\CheckCredit\CheckCredit\bin\Debug\netcoreapp2.0\CheckCredit.deps.json
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\CheckCredit\CheckCredit\bin\Debug\netcoreapp2.0\CheckCredit.runtimeconfig.json
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\CheckCredit\CheckCredit\bin\Debug\netcoreapp2.0\CheckCredit.runtimeconfig.dev.json
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\CheckCredit\CheckCredit\bin\Debug\netcoreapp2.0\CheckCredit.dll
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\CheckCredit\CheckCredit\bin\Debug\netcoreapp2.0\CheckCredit.pdb
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\CheckCredit\CheckCredit\obj\Debug\netcoreapp2.0\CheckCredit.csprojAssemblyReference.cache
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\CheckCredit\CheckCredit\obj\Debug\netcoreapp2.0\CheckCredit.csproj.CoreCompileInputs.cache
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\CheckCredit\CheckCredit\obj\Debug\netcoreapp2.0\CheckCredit.AssemblyInfoInputs.cache
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\CheckCredit\CheckCredit\obj\Debug\netcoreapp2.0\CheckCredit.AssemblyInfo.cs
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\CheckCredit\CheckCredit\obj\Debug\netcoreapp2.0\CheckCredit.dll
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\CheckCredit\CheckCredit\obj\Debug\netcoreapp2.0\CheckCredit.pdb

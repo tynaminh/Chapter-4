@@ -1,0 +1,11 @@
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\InsultGenerator\InsultGenerator\bin\Debug\netcoreapp2.0\InsultGenerator.deps.json
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\InsultGenerator\InsultGenerator\bin\Debug\netcoreapp2.0\InsultGenerator.runtimeconfig.json
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\InsultGenerator\InsultGenerator\bin\Debug\netcoreapp2.0\InsultGenerator.runtimeconfig.dev.json
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\InsultGenerator\InsultGenerator\bin\Debug\netcoreapp2.0\InsultGenerator.dll
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\InsultGenerator\InsultGenerator\bin\Debug\netcoreapp2.0\InsultGenerator.pdb
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\InsultGenerator\InsultGenerator\obj\Debug\netcoreapp2.0\InsultGenerator.csprojAssemblyReference.cache
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\InsultGenerator\InsultGenerator\obj\Debug\netcoreapp2.0\InsultGenerator.csproj.CoreCompileInputs.cache
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\InsultGenerator\InsultGenerator\obj\Debug\netcoreapp2.0\InsultGenerator.AssemblyInfoInputs.cache
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\InsultGenerator\InsultGenerator\obj\Debug\netcoreapp2.0\InsultGenerator.AssemblyInfo.cs
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\InsultGenerator\InsultGenerator\obj\Debug\netcoreapp2.0\InsultGenerator.dll
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\InsultGenerator\InsultGenerator\obj\Debug\netcoreapp2.0\InsultGenerator.pdb

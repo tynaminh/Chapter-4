@@ -1,0 +1,11 @@
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\FahrenheitToCelsius1\FahrenheitToCelsius1\obj\Debug\netcoreapp2.0\FahrenheitToCelsius1.csprojAssemblyReference.cache
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\FahrenheitToCelsius1\FahrenheitToCelsius1\obj\Debug\netcoreapp2.0\FahrenheitToCelsius1.csproj.CoreCompileInputs.cache
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\FahrenheitToCelsius1\FahrenheitToCelsius1\obj\Debug\netcoreapp2.0\FahrenheitToCelsius1.AssemblyInfoInputs.cache
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\FahrenheitToCelsius1\FahrenheitToCelsius1\obj\Debug\netcoreapp2.0\FahrenheitToCelsius1.AssemblyInfo.cs
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\FahrenheitToCelsius1\FahrenheitToCelsius1\bin\Debug\netcoreapp2.0\FahrenheitToCelsius1.deps.json
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\FahrenheitToCelsius1\FahrenheitToCelsius1\bin\Debug\netcoreapp2.0\FahrenheitToCelsius1.runtimeconfig.json
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\FahrenheitToCelsius1\FahrenheitToCelsius1\bin\Debug\netcoreapp2.0\FahrenheitToCelsius1.runtimeconfig.dev.json
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\FahrenheitToCelsius1\FahrenheitToCelsius1\bin\Debug\netcoreapp2.0\FahrenheitToCelsius1.dll
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\FahrenheitToCelsius1\FahrenheitToCelsius1\bin\Debug\netcoreapp2.0\FahrenheitToCelsius1.pdb
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\FahrenheitToCelsius1\FahrenheitToCelsius1\obj\Debug\netcoreapp2.0\FahrenheitToCelsius1.dll
+C:\Users\tn182848\Desktop\C-sharp-Projects\Chapter 4\FahrenheitToCelsius1\FahrenheitToCelsius1\obj\Debug\netcoreapp2.0\FahrenheitToCelsius1.pdb
